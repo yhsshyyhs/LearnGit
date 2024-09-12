@@ -6,3 +6,4 @@ branchD待修复
 测试 ff merge
 修改master
 add new feature
+bug has been fixed
