@@ -3,3 +3,4 @@ branchA
 branchB
 branchD待修复
 测试 no Fast Forward merge
+测试 ff merge
